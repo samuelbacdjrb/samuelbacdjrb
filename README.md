@@ -61,7 +61,7 @@
 </p>
 
 ---
-<h3 align="left">Languages, Tools, Platforms & Companys :</h3>
+<h3 align="left">Tools, Platforms & Companys :</h3>
 
 <p align="left">
 
