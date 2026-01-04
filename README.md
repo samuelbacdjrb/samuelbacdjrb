@@ -167,10 +167,10 @@
   </a>
   <!-- Companys -->
     <a href="https://www.ampmetropole.fr" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/fr/8/82/Logo_M%C3%A9tropole_Aix_Marseille_Provence.svg" width="40" height="40" alt="Arduino"/>
+    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHU5jIEdSDs8w/company-logo_200_200/company-logo_200_200/0/1738677432999/mtropole_aix_marseille_provence_logo?e=2147483647&v=beta&t=QSGJZ6M-2UUFpvHcNBW6EZwY3F8Pw00gmdfa1rNMPUk" width="40" height="40" alt="Arduino"/>
   </a>
     <a href="https://www.maregionsud.fr" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/fr/3/34/Logo_marque_R%C3%A9gion_Sud.svg" width="40" height="40" alt="Arduino"/>
+    <img src="https://media.licdn.com/dms/image/v2/D4E0BAQGAOk7GkWCWbg/company-logo_200_200/B4EZtGPzEMJwAM-/0/1766410105604/region_sud_provence_alpes_cote_d_azur_logo?e=2147483647&v=beta&t=ANZHEVnbjBJM6BxhmMXDJzs9U590MoTPHwctW4SJD30" width="40" height="40" alt="Arduino"/>
   </a>
     <a href="https://www.netacad.com/cisco-packet-tracer" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/fr/d/dc/Cisco_Packet_Tracer_Icon.png" width="40" height="40" alt="GCP"/>
@@ -224,11 +224,50 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://cybergladius.com/wp-content/uploads/2022/01/512px-Bash_Logo_Colored.svg_.png" width="40" height="40" alt="Bash"/>
   </a>
+  
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40" height="40" alt="TypeScript"/>
+  </a>
+
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="40" height="40" alt="Java"/>
+  </a>
+
+  <!-- Go -->
+  <a href="https://go.dev" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/go-8.svg" width="40" height="40" alt="Go"/>
+  </a>
+
+  <!-- Kotlin -->
+  <a href="https://kotlinlang.org" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" width="40" height="40" alt="Kotlin"/>
+  </a>
+
+  <!-- Swift -->
+  <a href="https://developer.apple.com/swift" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" width="40" height="40" alt="Swift"/>
+  </a>
+
+  <!-- PHP -->
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://pngimg.com/uploads/php/php_PNG43.png" width="40" height="40" alt="PHP"/>
+  </a>
+
+  <!-- R -->
+  <a href="https://www.r-project.org" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" width="40" height="40" alt="R"/>
+  </a>
+
+  <!-- Dart -->
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" width="40" height="40" alt="Dart"/>
+  </a>
 
   <!-- Rust -->
   <a href="https://www.rust-lang.org" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" width="40" height="40" alt="Rust"/>
   </a>
 
-</p>
 </p>
