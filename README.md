@@ -35,9 +35,9 @@
 - AI, Data, Public Transport, Cloud, Education, Strategic Planning, etc...
 
 ### 📫 Reach me at:
-**samuel.bacou@outlook.com** (Personnal Mail)
-**samuel.djeraibi-bacou@immerciel.tech** (IMMERCIEL Professionnal Mail)
-**samuel.djeraibi@lycadc-ciel.com** (School Mail)
+- **samuel.bacou@outlook.com** (Personnal Mail)
+- **samuel.djeraibi-bacou@immerciel.tech** (IMMERCIEL Professionnal Mail)
+- **samuel.djeraibi@lycadc-ciel.com** (School Mail)
 
 ### 📄 My experiences:
 **Data Analyst • AI Developer • Tech Student • Project Leader • Institutional Contributor**
