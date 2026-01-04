@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/samuel_bacdjrb" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/samuel_bacdjrb?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  <a href="https://instagram.com/samuel_bacdjrb" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/samuel_bacdjrb?logo=twitter&style=for-the-badge" alt="Instagram Follow" />
   </a>
 </p>
 
