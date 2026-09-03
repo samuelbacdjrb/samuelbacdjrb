@@ -15,8 +15,8 @@
 
 ### 🔭 Currently working on:
 - [MOBIA – AI Assistant for Métropole Mobilité](https://lametropolemobilite.fr)
-- [Immerciel – Independent IT Infrastructure ]
-- [Faitoientendre Marcel – AI Assistant for Anti-Bullying in Schools]
+- Immerciel – Independent IT Infrastructure
+- Faitoientendre Marcel – AI Assistant for Anti-Bullying in Schools
 
 ### 🧠 Current roles:
 - CIEL vocational baccalaureate program Student
